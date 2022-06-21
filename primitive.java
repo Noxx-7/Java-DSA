@@ -7,6 +7,7 @@ public class primitive {
 //        float marks = 96.25f;
 //        double largedecimalnumver = 5454.2225453;
 //        long largeint = 44444444444444L;
+        //ok
 //        boolean check = true;
         Scanner input = new Scanner(System.in);
         int roll = input.nextInt();
